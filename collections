@@ -1,3 +1,5 @@
 Valhalla is an open source routing engine and accompanying libraries for use with OpenStreetMap data: https://valhalla.github.io/valhalla/
 
 Some ideas for later GIS-social related research: https://mp.weixin.qq.com/s/UWENx_mF92bm59bw04pSxQ
+
+Ollama with LoRA adaptation: https://ollama.com/molbal/cra-v1-7b:q4_k_m
