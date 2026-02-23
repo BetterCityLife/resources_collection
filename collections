@@ -5,3 +5,5 @@ Some ideas for later GIS-social related research: https://mp.weixin.qq.com/s/UWE
 Ollama with LoRA adaptation: https://ollama.com/molbal/cra-v1-7b:q4_k_m
 
 Presentation Tips: https://mcds-cmu.github.io/11631/f24/homework/#presentation-tips
+
+Maja Pavlovic： Understanding Model Calibration - A gentle introduction and visual exploration of calibration and the expected calibration error (ECE). https://arxiv.org/html/2501.19047v2
